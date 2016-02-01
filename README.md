@@ -34,10 +34,10 @@ now as easy as:
 install.packages("seasonal")
 ```
 
-which opens the door for effortless deployment of powerful deasonalization. By default, the principal function of
-package [seasonal](https://cloud.r-project.org/package=seasonal) is `seas`. It employs a number of automated techniques
-that work well is most circumstances. For example, the following code produces a resonable seasonal adjustment of the
-latest data of US retail sales (by the Census Bureau) downloaded from [Quandl](http://www.quandl.com):
+which opens the door for effortless deployment of powerful deasonalization. By default, the principal function of the 
+package employs a number of automated techniques that work well is most circumstances. For example, the following code 
+produces a seasonal adjustment of the latest data of US retail sales (by the Census Bureau) downloaded from 
+[Quandl](http://www.quandl.com):
 
 ```r
 library(seasonal) 
