@@ -1,7 +1,8 @@
 
 ## Like peanut butter and jelly:  x13binary and seasonal
 
-_This post was written by Dirk Eddelbuettel and Christoph Sax and posted by both author's respective blogs._
+_This post was written by [Dirk Eddelbuettel](http://dirk.eddelbuettel.com) and [Christoph Sax](http://www.christophsax.com/)
+and posted by both author's respective blogs.
 
 The [seasonal](https://cloud.r-project.org/package=seasonal) package by [Christoph Sax](http://www.christophsax.com/)
 brings a very featureful and expressive interface for working with seasonal data to the [R](http://www.r-project.org)
@@ -49,8 +50,8 @@ plot(m, ylab="USD (in Billions)")
 
 which generates the following chart demonstrating a recent flattening in export activity measured in USD.
 
-![Example of seasonal use with x13binary](images/ChineseExports.png){ width=98% }
+![Example of seasonal use with x13binary](images/ChineseExports.png)
 
 We hope this simple examples illustrates both how powerful a tool `X-13ARIMA-SEATS` is, but also just how easy it is to use
-`X-13ARIMA-SEATS` from R now that we provide the [x13binary](https://github.com/x13org/x13binary)) package automating its
+`X-13ARIMA-SEATS` from R now that we provide the [x13binary](https://github.com/x13org/x13binary) package automating its
 installation. 
