@@ -2,7 +2,7 @@
 ## Like peanut butter and jelly:  x13binary and seasonal
 
 _This post was written by [Dirk Eddelbuettel](http://dirk.eddelbuettel.com) and [Christoph Sax](http://www.christophsax.com/)
-and posted by both author's respective blogs.
+and posted by both author's respective blogs._
 
 The [seasonal](https://cloud.r-project.org/package=seasonal) package by [Christoph Sax](http://www.christophsax.com/)
 brings a very featureful and expressive interface for working with seasonal data to the [R](http://www.r-project.org)
